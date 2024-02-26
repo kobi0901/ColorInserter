@@ -1,0 +1,4 @@
+name: ColorInserter
+version: '${project.version}'
+main: dev.kobi.colorinserter.ColorInserter
+api-version: '1.19'
